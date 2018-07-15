@@ -1,2 +1,2 @@
 # CppStyleSettings
-C++ naming style settings for use with resharper.
+C++ naming style settings for use with resharper. To use, just add this directory as a subdirectory in CMake. Based on [CG Internals guidelines](http://cginternals.github.io/guidelines/).
